@@ -1,4 +1,4 @@
-[![MC Technology](src/cartas.GIF)](https://www.youtube.com/@gyazo6700)
+[![gyaz0](src/cartas.GIF)](https://www.youtube.com/@gyazo6700)
 
 <h1 align="center">Hi there, I'm gyazo - MC Technology <img src="./src/wave.gif" width="30px"></h1>
 
