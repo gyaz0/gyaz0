@@ -1,4 +1,4 @@
-[![gyaz0](src/cartas.gif)](https://www.youtube.com/@gyazo6700)
+[![gyaz0](src/cartas2.gif)](https://www.youtube.com/@gyazo6700)
 
 <h1 align="center">Hi there, I'm gyazo <img src="./src/wave.gif" width="30px"></h1>
 
