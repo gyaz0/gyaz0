@@ -16,11 +16,11 @@
 <details>
   <summary>:zap: About me!</summary>
 
-### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
-- 🦾 I love the PowerLifting!
-- 🤓  I’m currently learning everything
-- 👾  I am very curious and that is why you start studying programming
-- 🗒  I am currently very obsected with learning vimscript
+### 💻 I program for Pastime, one of the creators of "Gyazoclonerv1" 💻!!
+- 💀 Work for the highest roller!
+- 💀 I am the best tool
+- 💀 I am a student 
+- 💀 I am gyazo
 </details>
 
 <br />
