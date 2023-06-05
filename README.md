@@ -14,7 +14,7 @@
 </table>
 
 <details>
-  <summary>:skull: About me!</summary>
+  <summary>:bones: About me!</summary>
 
 ### 💻 I program for Pastime, one of the creators of "Gyazoclonerv1" 💻!!
 - 💀 Work for the highest roller!
